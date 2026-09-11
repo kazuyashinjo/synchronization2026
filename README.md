@@ -1,4 +1,4 @@
-# Quantum-hardware data for Figure 3
+# Quantum-hardware data
 
 This repository contains the quantum-circuit submission script and the archived measurement data associated with Fig. 3 of the manuscript *Quantum synchronization and chimera states in a programmable quantum many-body system*.
 
